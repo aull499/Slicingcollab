@@ -1,0 +1,390 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body .navbar-imam {
+  background-color: #25B24C;
+}
+body .navbar-imam .navbar .container {
+  justify-content: space-between;
+}
+body .navbar-imam .navbar .container .navbar-brand {
+  color: white;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+body .navbar-imam .navbar .container .navbar-beranda ul {
+  padding-left: 500px;
+}
+body .navbar-imam .navbar .container .navbar-beranda ul .nav-item .nav-link {
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  padding-left: 20px;
+  text-transform: uppercase;
+}
+body .hero-section {
+  background-image: url(../bahancollab/fi1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body .hero-section .container .row .content-hero .hero-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 43px;
+  color: white;
+  margin-top: 150px;
+  margin-left: 90px;
+}
+body .hero-section .container .row .content-hero .our-bootcamp {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 58px;
+  letter-spacing: 1px;
+  color: white;
+  margin-top: 100px;
+  margin-left: 90px;
+}
+body .hero-section .container .row .content-hero .btn-get {
+  background-color: #25B24C;
+  color: #035220;
+  border-radius: 25px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  width: 150px;
+  margin-top: 100px;
+  margin-bottom: 150px;
+  margin-left: 90px;
+  padding-top: 10px;
+  padding-bottom: 11px;
+}
+body .hero-section .container .row .content-hero .btn-get:hover {
+  background-color: #39F548;
+  opacity: 70%;
+}
+body .profil .row .img-profil img {
+  margin-top: 239px;
+  width: 690px;
+  height: 430px;
+  border-radius: 15px;
+}
+body .profil .row .content-profil .desc-profil {
+  margin-top: 200px;
+  margin-left: 70px;
+}
+body .profil .row .content-profil .desc-profil .desc {
+  font-weight: 400px;
+  size: 20px;
+  line-height: 29px;
+  letter-spacing: 10px;
+  padding-top: 224px;
+  color: #035220;
+}
+body .profil .row .content-profil .desc-profil h3 {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 50px;
+  color: black;
+  letter-spacing: 1px;
+}
+body .profil .row .content-profil .desc-profil h6 {
+  font-weight: 500;
+  size: 20px;
+  line-height: 39px;
+  color: #686868;
+}
+body .profil .row .content-profil .desc-profil h6 .misi {
+  font-weight: 400px;
+  size: 20px;
+  line-height: 29px;
+  padding-top: 224px;
+  color: #454545;
+}
+body .profil .row .content-profil .desc-profil p {
+  font-weight: 400px;
+  size: 16px;
+  line-height: 25px;
+  color: #686868;
+}
+body .berita-section {
+  background-color: #d1eeda;
+  margin-top: 190px;
+  padding-bottom: 50px;
+}
+body .berita-section .header-footer h3 {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  color: black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+body .berita-section .student .row .kartu .card {
+  border: none;
+  border-radius: 25px;
+}
+body .berita-section .student .row .kartu .card .card-body {
+  height: auto;
+}
+body .berita-section .student .row .kartu .card .card-body .image {
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+body .berita-section .student .row .kartu .card .card-body h6 {
+  font-weight: 500px;
+  size: 15px;
+  line-height: 17px;
+  padding-top: 30px;
+  align-items: center;
+  padding-bottom: 10px;
+}
+body .berita-section .student .row .kartu .card .card-body .card-text {
+  font-weight: 300px;
+  size: 11px;
+  line-height: 19px;
+  color: #B1B1B1;
+}
+body .berita-section .student .row .kartu .card .card-body .user-student button {
+  background-color: #39F548;
+  color: white;
+  border-radius: 25px;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+}
+body .ppdb {
+  background-color: #FFFFFF;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+body .ppdb .row {
+  background-color: #F3FFE5;
+  border-radius: 25px;
+  justify-content: center;
+}
+body .ppdb .row .content-ppdb h2 {
+  font-weight: 500px;
+  size: 48px;
+  line-height: 50px;
+  color: #1E1E1E;
+  padding-left: 180px;
+  margin-bottom: 60px;
+}
+body .ppdb .row .content-ppdb .btn-daftar {
+  background-color: #2ACF66;
+  color: white;
+  border-radius: 25px;
+  border: none;
+  font-weight: 500;
+  size: 24px;
+  line-height: 20px;
+  margin-left: 180px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+body .ppdb .row .hero-image img {
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+body .galeri {
+  background-color: #d1eeda;
+  margin-top: 100px;
+  padding-bottom: 200px;
+}
+body .galeri .title-galeri h2 {
+  font-weight: 500px;
+  size: 36px;
+  line-height: 42px;
+  color: black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+body .galeri .galeri1 .row .varian-item img {
+  border-radius: 25px;
+  margin-bottom: 20px;
+}
+body .galeri .varian .row .galeri-item img {
+  border-radius: 25px;
+  margin-bottom: 100px;
+}
+body .galeri .title-prestasi h2 {
+  font-weight: 500px;
+  size: 36px;
+  line-height: 42px;
+  color: black;
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
+body .galeri .gradu {
+  padding-top: 2px;
+  padding-left: 515px;
+}
+body .galeri .prestasi .row .prestasi-item img {
+  margin-top: 40px;
+  margin-bottom: 100px;
+  border-radius: 25px;
+}
+body .galeri .fasilitas .row .fasilitas-item {
+  border: none;
+  border-radius: 7px;
+  background-color: #FFFFFF;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  width: 120px;
+  height: 120px;
+  margin-left: 60px;
+}
+body .galeri .fasilitas .row .fasilitas-item img {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  align-items: center;
+  margin-left: 25px;
+  width: 45px;
+  height: 45px;
+}
+body .galeri .fasilitas .row .fasilitas-item .kelas {
+  font-weight: 500px;
+  size: 15px;
+  line-height: 20px;
+  color: #5A5A5A;
+  align-items: center;
+  margin-left: 4px;
+}
+body .galeri .fasilitas .row .fasilitas-item .komputer {
+  font-weight: 500px;
+  size: 15px;
+  line-height: 20px;
+  color: #5A5A5A;
+  align-items: center;
+  margin-left: -2px;
+}
+body .galeri .fasilitas .row .fasilitas-item .lapangan {
+  font-weight: 500px;
+  size: 15px;
+  line-height: 20px;
+  color: #5A5A5A;
+  align-items: center;
+  margin-left: 12px;
+}
+body .galeri .fasilitas .row .fasilitas-item .kantin {
+  font-weight: 500px;
+  size: 15px;
+  line-height: 20px;
+  color: #5A5A5A;
+  align-items: center;
+  margin-left: 25px;
+}
+body .galeri .fasilitas .row .fasilitas-item .uks {
+  font-weight: 500px;
+  size: 15px;
+  line-height: 20px;
+  color: #5A5A5A;
+  align-items: center;
+  margin-left: 32px;
+}
+body .galeri .fasilitas .row .fasilitas-item .masjid {
+  font-weight: 500px;
+  size: 15px;
+  line-height: 20px;
+  color: #5A5A5A;
+  align-items: center;
+  margin-left: 25px;
+}
+body .footer {
+  background-color: #0B6D26;
+}
+body .footer .container .row .footer-logo img {
+  width: 100px;
+  height: 100px;
+  margin-top: 50px;
+}
+body .footer .container .row .footer-text h1 {
+  font-weight: 400px;
+  size: 54px;
+  line-height: 20px;
+  color: white;
+  margin-top: 50px;
+}
+body .footer .container .row .footer-text .alamat {
+  font-weight: 500;
+  size: 15px;
+  line-height: 18px;
+  margin-top: 40px;
+  color: white;
+}
+body .footer .container .row .footer-text .telp {
+  font-weight: 500;
+  size: 15px;
+  color: white;
+  margin-top: -25px;
+}
+body .footer .container .row .footer-text .email {
+  font-weight: 500;
+  size: 15px;
+  color: white;
+  margin-top: -25px;
+}
+body .footer .container .row .tautan-text {
+  margin-left: 70px;
+}
+body .footer .container .row .tautan-text h1 {
+  font-weight: 400px;
+  size: 54px;
+  line-height: 20px;
+  color: white;
+  margin-top: 200px;
+}
+body .footer .container .row .tautan-text p {
+  font-weight: 500px;
+  size: 15px;
+  line-height: 40px;
+  color: white;
+  margin-top: 40px;
+}
+body .footer .container .row .search .text-search {
+  font-weight: 400px;
+  size: 54px;
+  line-height: 20px;
+  color: white;
+  margin-top: 200px;
+}
+body .footer .container .row .search .cari-tautan {
+  border: none;
+  border-radius: 15px;
+  background-color: #FFFFFF;
+  margin-bottom: 20px;
+  margin-top: 70px;
+  width: 150px;
+  height: 40px;
+}
+body .footer .container .row .search .cari-tautan .cari {
+  font-weight: 400px;
+  size: 10px;
+  color: #686868;
+  margin-left: 20px;
+}
+body .footer .last {
+  background-color: #25B24C;
+  margin-bottom: 0%;
+}
+body .footer .last .container img {
+  width: 30px;
+  height: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 25px;
+}
+body .footer .last .container .copyright {
+  font-weight: 700px;
+  size: 15px;
+  line-height: 20px;
+  color: white;
+  margin-top: -20px;
+  margin-bottom: 20px;
+  margin-left: 450px;
+}/*# sourceMappingURL=style.css.map */
